@@ -1,6 +1,6 @@
 # main.py
 # by FuchsCrafter
-# license: cc-by
+# license: GNU-gpl-3, see it at go.fuchscrafter.de/gnugpl3
 
 def sleep(time): # Function
     try:
